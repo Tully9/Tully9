@@ -1,5 +1,5 @@
 # 💫 About Me:
-✍️ Studying ISE in Limerick<br>💻 Currently learning Bash
+✍️ Studying ISE in Limerick<br>💻 Currently learning MySQL
 
 
 # 💻 Tech Stack:
