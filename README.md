@@ -1,5 +1,5 @@
-# 💫 About Me:
-✍️ Studying ISE in Limerick<br>💻 Currently learning MySQL<br><br>Personal Website: [tomtully.ie](https://tomtully.ie)
+# About Me:
+✍️ Studying ISE in Limerick<br>💻 Currently learning Go<br><br>Personal Website: [tomtully.ie](https://tomtully.ie)
 
 
 # 💻 Tech Stack:
