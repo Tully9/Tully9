@@ -4,7 +4,7 @@
 💻 Currently learning Go  
 
 📬 Contact: info@tomtully.ie  
-🌐 Personal Website: [tomtully.ie](https://tomtully.ie)
+🌐 Personal Website: [tomtully.ie](https://tomtully.ie)  
 📍 Dublin, Ireland
 
 # 💻 Tech Stack:
