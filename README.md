@@ -1,6 +1,6 @@
 # About Me:
+🧪 Research Software Engineer @ CERN - ATLAS Experiment
 ✍️ Studying ISE in Limerick  
-🧪 Currently on placement at CERN working on the ATLAS Experiment  
 💻 Currently learning Go  
 
 📬 Contact: info@tomtully.ie  
