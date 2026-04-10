@@ -38,7 +38,7 @@ Dublin, Ireland &nbsp;·&nbsp; [info@tomtully.ie](mailto:info@tomtully.ie)
 <tr>
   <td width="90" align="center">
     <a href="https://ul.ie">
-      <img src="https://raw.githubusercontent.com/Tully10/Images/main/projects/ISE-Logo.png" width="60" alt="ISE" />
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA1VBMVEVHcExBqFU+dTUYajIHQTQMIygCBQlWl1Bvv11euVtMtVc6s1Yir1cNploJmF0DiloIeF4TZ1oUWk8WS0oSQkoVOjsNMEEDBwwNMTwRNktRrVpJmU0OnV0Ia1kOMzkSPkgAAAAKO0IRKzgLHS4QMzsQN0oTPkQYUkkZVkwAhl8FiGMloGUOIzIPIzQPPU8NPkEEjW4momcMHC4SMD4UV1UGh2Ydk2EWbl8Rmm0aUVAUUlwSK0ASV2QWYGoVZW4TanEWQlsWQl0LGCgYR2kLGiwbSm0CBglI9r1LAAAAR3RSTlMAZ3FxcG4ME///////////////////8BHl//Z1aGh/HwUrNZJTvt/Xn02MkGH/skD///+SxNnciCHwfv//vr/Jkf/Z4/T/SNOX1REAAAE/SURBVHgBhdBVAgIhFEDRZ2Enk3bAWFN2d+x/SQJ2308ODeDxXvJd87MCLATBECscDkcikWg0FovFE8lkKp3BkqyoHMNXizITmOGoMXwygSmxUucYDmdznnN5UYFXvKEKb5UuGMmW37HCEP5WrdWqAIQa9UYJmq1Wm3dF07ICYMsyxpm000q6iQ4LXbFrmVVZ1oq9TB9arjsYsh4xIMsEoIQ4Pl2eI5FlgwBr5LrOmPWAAdBkWcINhimXN3xC6DHEExilU5wHT7dlOQbG5jSdriCE1DvOAuBwlXBxOp8/X2g2Mx1d8xNDkhyG/cVyuapcUddNqosorDdzkXP9PkoJEKooRhGA2CJ6WYnK8CnExtF2uy29U2m3oyqo3e5e/YCHw+6Mx/fMK96zLGs20/XNZnP4ilz/I6o91eOtRVM4AcPOSJP0DVx0AAAAAElFTkSuQmCC" width="60" alt="ISE" />
     </a>
   </td>
   <td><strong>BSc Immersive Software Engineering</strong><br/>University of Limerick</td>
@@ -46,7 +46,7 @@ Dublin, Ireland &nbsp;·&nbsp; [info@tomtully.ie](mailto:info@tomtully.ie)
 <tr>
   <td width="90" align="center">
     <a href="https://ul.ie">
-      <img src="https://raw.githubusercontent.com/Tully10/Images/main/projects/UL-Logo.png" width="60" alt="University of Limerick" />
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcEwAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVAAqVA+aM64AAAAE3RSTlMADMRJcaza5Lh8/J8ZXzgoke7OKEBqTAAAANxJREFUeAGNkIVxwEAMwPTM4N9/1zI6Keh8KDP/w/wmrcP5n2SIKZd6q3wLIXSAfpUj1jED0Ou6Vo7cs9mAiUxdWWOMEjBia7foSqBnMD25reQSX/wZQCtpDWX3HkMIUuMRcfrMUcYhnJaPMSiOydg6AG/RJDry3kRLAbZNcibUG7meTmTUQVALmQi1L4EkDHVot89BYuY2V1ZPyC8yZjGgpYk42V4WgP4fMQY3h7WAXqiHemZJxzlBn8J0y7Xh5sZvjkMxxEo7EVLeXOmnYTBSuGXUsuvkJ0rhvzwC66oIpuQIz+4AAAAASUVORK5CYII=" width="60" alt="University of Limerick" />
     </a>
   </td>
   <td><strong>Part-time Research Assistant / Software Engineer</strong><br/>University of Limerick</td>
