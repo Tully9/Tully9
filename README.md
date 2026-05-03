@@ -2,7 +2,7 @@
 
 # Tom Tully
 
-**Software Engineer · Founder · Researcher · 30u30**
+**Software Engineer · Founder · Researcher · Irish 30u30**
 
 Dublin, Ireland &nbsp;·&nbsp; [info@tomtully.ie](mailto:info@tomtully.ie)
 
