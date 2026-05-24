@@ -19,13 +19,7 @@ Dublin, Ireland &nbsp;·&nbsp; [info@tomtully.ie](mailto:info@tomtully.ie)
       <img src="https://software-engineering.ie/wp-content/uploads/2024/10/protex-ai-standardised-2-1024x1024.png" width="60" alt="Protex AI" />
     </a>
   </td>
-  <td><strong>Incoming Software Engineer Intern</strong><br/>Protex AI · YC W21</td>
-</tr>
-<tr>
-  <td width="90" align="center">
-    <img src="https://raw.githubusercontent.com/Tully10/Images/main/projects/AdeptlyLogo.png" width="60" alt="Adeptly" />
-  </td>
-  <td><strong>Founder</strong> · Adeptly<br/>AWS Startup Program · NDRC Pre-Accelerator Q3 2025</td>
+  <td><strong>Software Engineer Intern</strong><br/>Protex AI · YC W21</td>
 </tr>
 <tr>
   <td width="90" align="center">
